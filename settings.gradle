@@ -1,0 +1,2 @@
+rootProject.name='learning_recyclerview'
+include ':app'
